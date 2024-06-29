@@ -1,3 +1,7 @@
+# Pending to complete
+1. Create run files for all the algorithms.
+2. Update installation instructions in this file accordingly. 
+
 # Innovized Progress (IP) Operators
 This repository contains the working codes for the series of Innovized Progress Operators, including, IP2, IP3 and UIP operators. The details of these operators can be found in the book: https://link.springer.com/book/10.1007/978-981-99-2096-9
 1. IP2 - Innovized Progress 2
