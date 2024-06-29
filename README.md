@@ -12,7 +12,7 @@ The MaOEAs included in this repository are:
 
 The relevant description, references and parameter settings, for the above MaOEAs can be found in book cited above. Notably, pymoo is a python-based platform used for developing MaOEAs. 
 
-Further, the test problems used in the book include: (a) ZDT, (b) DTLZ, (c) MaF, (d) CIBN, (e) DAS-CMOP and (f) MF. pymoo does not cover all these test problems by default, owing to which, the source codes for the missing test problems have also been included in this repository.
+Further, the test problems used in the book include: (a) ZDT, (b) DTLZ, (c) MaF, (d) CIBN, (e) DAS-CMOP and (f) MW. pymoo does not cover all these test problems by default, owing to which, the source codes for the missing test problems have also been included in this repository.
 
 # Requirements
 For running the MaOEAs built on pymoo, make sure you have the following installed:
