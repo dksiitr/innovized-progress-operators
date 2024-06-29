@@ -16,20 +16,21 @@ Further, the test problems used in the book include: (a) ZDT, (b) DTLZ, (c) MaF,
 
 # Requirements
 For running the MaOEAs built on pymoo, make sure you have the following installed:
-a) Python 3.6 or above: https://www.python.org/
-b) pymoo package, as available on PyPi and can be installed using: pip install pymoo==0.4.2.2rc2
-c) hvwfg package, as available on PyPi and can be installed using: pip install hvwfg
+1. Python 3.6 or above: https://www.python.org/
+2. pymoo package, as available on PyPi and can be installed using: pip install pymoo==0.4.2.2rc2
+3. hvwfg package, as available on PyPi and can be installed using: pip install hvwfg
 
 # Installation from this Repository
 For MaOEAs built on pymoo:
-a) download the respective file from “MaOEAs/pymoo” folder,
-b) locate the “pymoo/algorithms” folder in your python installation directory, and
-c) copy the downloaded file(s) in that folder.
+1. download the respective file from “MaOEAs/pymoo” folder,
+2. locate the “pymoo/algorithms” folder in your python installation directory, and
+3. copy the downloaded file(s) in that folder.
 
-Instructions on how to run
+# Instructions on how to run
 For MaOEAs built on pymoo, a “.ipynb” notebook file has been provided in the “Run” folder. In that:
-a) the problem name, and number of objectives (if applicable) need to be specified at the top, and
-b) all cells are to be executed.
+1. the problem name, and number of objectives (if applicable) need to be specified at the top, and
+2. all cells are to be executed.
+
 Notably, the “Problems/pymoo/maf.py” file should be copied to the current working directory.
 
 If you have any difficulties running these codes, please write to dhish.saxena@me.iitr.ac.in or mittalsukrit@gmail.com
