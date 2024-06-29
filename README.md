@@ -22,9 +22,10 @@ For running the MaOEAs built on pymoo, make sure you have the following installe
 
 # Installation from this Repository
 For MaOEAs built on pymoo:
-1. download the respective file from “MaOEAs/pymoo” folder,
-2. locate the “pymoo/algorithms” folder in your python installation directory, and
-3. copy the downloaded file(s) in that folder.
+1. copy the file “algorithm.py” from this repository to “pymoo/model/” folder in your pmoo installation directory,
+2. download the respective file from “MaOEAs/pymoo” folder,
+3. locate the “pymoo/algorithms” folder in your pymoo installation directory, and
+4. copy the downloaded file(s) in that folder.
 
 # Instructions on how to run
 For MaOEAs built on pymoo, a “.ipynb” notebook file has been provided in the “Run” folder. In that:
